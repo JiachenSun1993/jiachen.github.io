@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 I am a senior researcher at Tencent. My reserach interest includes complex network, data mining and AI technology.
+
+You can fine my publication at Google Scholar.
